@@ -6,4 +6,6 @@ The objective of this project is to show several data analysis methods used in m
 
 El objetivo de este proyecto es mostrar varios métodos de análisis de datos usados en mi estudio de la relación entre la presi{on hidrostática y la razón de formación de estrellas en escalas locales en las galaxias observadas como parte del sonde ACA-EDGE survey, donde comparé dicha relación con las ya establecidas relaciones entre la densidad de masa estelar, la densidad de masa de gas molecular y la razón de formación de estrellas. Los archivos csv contienen los datos usados, los cuales pueden ser unidos en una única base de datos usando la columna `Source_id`, y el cuaderno de Jupyter `database_analysis.ipynb` muestra todo el análisis, incluyendo ajustes de mínimos cuadrados a las relaciones de interés, así como el uso de un modelo de aprendizaje automático para seleccionar las características más importantes para predecir valores de razón de formación de estrellas.
 
+![UGC12224_SSFR](/assets/barplot.png)
+
 ![UGC12224_SSFR](/assets/UGC12224_SDSS.png)
